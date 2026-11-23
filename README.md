@@ -1,9 +1,3 @@
-<div align="center">
-  <img src="./header.svg" width="100%" alt="Bárbara Tech Banner" />
-</div>
-
-<br>
-
 <!-- FAIXA NEON ROSA/ROXO COM AS LOGOS DAS FERRAMENTAS -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:090D16,35:9333EA,65:EC4899,100:090D16&height=3&width=100%" />
