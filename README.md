@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Seu Nome Completo</h1>
-  <p><strong>Área 01</strong> • <strong>Área 02</strong></strong></p>
+  <p><strong>Área 01</strong> • <strong>Área 02</strong></p>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&height=26&pause=1500&color=F472B6&center=true&vCenter=true&width=580&lines=Sua+frase+de+impacto+ou+especialidade+aqui" alt="Typing SVG" />
   </a>
@@ -16,7 +16,7 @@ Escreva aqui um parágrafo objetivo apresentando sua formação acadêmica, áre
 
 <!-- SUMÁRIO CLICÁVEL EM BLOCOS -->
 <p align="left">
-  <a href="#projetos"><img src="https://img.shields.io/badge/Projetos_%E2%86%92-F472B6?style=for-the-badge" height="48" alt="Projetos" /></a> <a href="#linguagens"><img src="https://img.shields.io/badge/Linguagens_%E2%86%92-1E1326?style=for-the-badge" height="48" alt="Linguagens" /></a> <a href="#ferramentas"><img src="https://img.shields.io/badge/Ferramentas_%E2%86%92-1E1326?style=for-the-badge" height="48" alt="Ferramentas" /></a> <a href="#contato"><img src="https://img.shields.io/badge/Contato_%E2%86%92-1E1326?style=for-the-badge" height="48" alt="Contato" /></a>
+  <a href="#projetos"><img src="https://img.shields.io/badge/Projetos_%E2%86%92-1E1326?style=for-the-badge" height="48" alt="Projetos" /></a> <a href="#linguagens"><img src="https://img.shields.io/badge/Linguagens_%E2%86%92-1E1326?style=for-the-badge" height="48" alt="Linguagens" /></a> <a href="#ferramentas"><img src="https://img.shields.io/badge/Ferramentas_%E2%86%92-1E1326?style=for-the-badge" height="48" alt="Ferramentas" /></a> <a href="#contato"><img src="https://img.shields.io/badge/Contato_%E2%86%92-1E1326?style=for-the-badge" height="48" alt="Contato" /></a>
 </p>
 
 ---
